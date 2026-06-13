@@ -1,0 +1,24 @@
+treatment_function_name,total_waiting,over_18_weeks,over_52_weeks,over_104_weeks,breach_rate_pct
+Oral Surgery Service,320612.0,142507.0,7087.0,4.0,44.4
+Plastic Surgery Service,101370.0,43984.0,2457.0,7.0,43.4
+Ear Nose and Throat Service,580054.0,241215.0,12574.0,22.0,41.6
+Trauma and Orthopaedic Service,826172.0,337724.0,18630.0,369.0,40.9
+Neurology Service,208673.0,82301.0,2071.0,4.0,39.4
+Gynaecology Service,555528.0,217579.0,10028.0,5.0,39.2
+Neurosurgical Service,56423.0,21323.0,776.0,0.0,37.8
+General Surgery Service,376693.0,139676.0,5920.0,7.0,37.1
+Dermatology Service,372060.0,130062.0,3651.0,2.0,35.0
+Other - Surgical Services,467771.0,158662.0,5633.0,9.0,33.9
+Urology Service,378188.0,127520.0,5081.0,31.0,33.7
+Other - Paediatric Services,316520.0,102356.0,3900.0,8.0,32.3
+Cardiology Service,375773.0,115512.0,2877.0,15.0,30.7
+Gastroenterology Service,366951.0,110844.0,2921.0,4.0,30.2
+Rheumatology Service,112400.0,33324.0,754.0,1.0,29.6
+Other - Medical Services,614175.0,180397.0,3893.0,4.0,29.4
+General Internal Medicine Service,37173.0,10466.0,432.0,0.0,28.2
+Ophthalmology Service,603966.0,164569.0,4420.0,4.0,27.2
+Cardiothoracic Surgery Service,9135.0,2435.0,117.0,0.0,26.7
+Respiratory Medicine Service,183922.0,45978.0,665.0,0.0,25.0
+Other - Other Services,152735.0,34896.0,1280.0,2.0,22.8
+Other - Mental Health Services,3178.0,580.0,2.0,1.0,18.3
+Elderly Medicine Service,26038.0,4479.0,156.0,0.0,17.2
